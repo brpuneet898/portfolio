@@ -1,0 +1,96 @@
+---
+title: "Portfolio"
+format: html
+---
+
+# Introduction {.anchor #introduction}
+
+<img src="images/Self-Photo.JPG" width="150" align="left" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;" />
+Hi, I'm Puneet, and I am passionate about data science and technology. Over the years, I have honed my skills in a variety of areas, including programming, data analysis, machine learning, and web development. I have a strong foundation in both theoretical concepts and practical applications, which allows me to solve real-world problems with creative solutions.
+
+
+I believe in lifelong learning and am always seeking to improve my skill set by keeping up with the latest trends in technology. Whether it's programming in Python, building web applications, or working with data, I am excited to take on new challenges and grow as a professional. With a keen eye for detail and a commitment to excellence, I aim to make meaningful contributions to every project I work on.
+
+In my free time, I enjoy exploring new tech, contributing to open-source projects, and engaging in problem-solving challenges. I am also an advocate for collaboration and love working in teams to achieve shared goals. My journey in the tech industry is just beginning, and I am eager to see where my skills and passions will take me.
+
+
+# Academic Qualification {.anchor #academic-qualification}
+
+- **BS in Data Science Applications**, IIT Madras
+- **Class XII**, Ahlcon International School, Delhi, 2019 – 98.67%
+- **Class X**, Ahlcon International School, Delhi, 2017 – 10 CGPA
+
+# Skills {.anchor #skills}
+
+- **Tools & Software**: Word, Excel, PowerPoint, Access, Microsoft 365
+- **Programming Languages**: Python, Java, C#, JavaScript, DSA
+- **Libraries & Frameworks**: Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib, Django, Flask
+- **Databases**: SQL, Oracle, PostgreSQL
+- **Web Development**: HTML, MJML, CSS, JavaScript, Bootstrap, PHP, Android Studio
+- **Other**: AWK, Bash, Sed, Regex, PyTest
+
+# Work Experience {.anchor #work-experience}
+
+### Teaching Assistant & Mentor, IIT Madras, Aug 2024 – Present
+
+### Product Engineer, Metagauss, July 2023 – July 2024
+<!-- - Worked on data cleaning and feature engineering for predictive modeling.
+- Applied machine learning algorithms to build models for customer segmentation.
+- Visualized key insights using tools like Seaborn and Matplotlib to present findings to the team. -->
+
+### Teaching Assistant, IIT Madras, Jan 2023 – May 2023
+
+### Associate Product Strategy, Metagauss, Nov 2021 – Feb 2023
+<!-- - Developed web applications using Django and Flask frameworks.
+- Implemented database systems using PostgreSQL for efficient data storage and retrieval.
+- Collaborated with the design team to improve UI/UX for client projects. -->
+
+### Jr. Technical Content Writer, Metaguass, July 2021 – March 2022
+
+# Internships {.anchor #internships}
+
+- **Data Science Intern, IISc Bangalore**, Sep 2023 – Nov 2023
+- **Summer Intern, IIIT Naya Raipur**, May 2023 – July 2023
+- **Jr. Python/Django Associate Intern, Zummit Labs**, Oct 2022 – Feb 2023
+- **SDE Intern, Alcanttor Info Soln Pvt Ltd**, Oct 2022 – Jan 2023
+- **Lead Python Mentor, IIT Madras**, Aug 2022 – Sep 2022
+- **AI Intern, Personifwy**, March 2022 – May 2022
+
+# Projects {.anchor #projects}
+
+- **Machine Learning Model for Predictive Analytics**: Built a model to predict customer churn using Python and Scikit-learn.
+- **Personal Portfolio Website**: Developed a responsive website using HTML, CSS, and JavaScript to showcase my projects and skills.
+- **Stock Price Prediction App**: Created a Python application that predicts stock prices using machine learning and time series analysis.
+
+# Publications {.anchor #publications}
+
+- **Search Algorithms: Introductory Guide**, Tech Blog, November 2024. [Link](https://monomousumi.com/search-algorithms-introductory-guide/)
+- **Understanding polycystic ovary syndrome in light of associated key genes**, Egyptian Journal of Medical Human Genetics, June 2023. [Link](https://jmhg.springeropen.com/articles/10.1186/s43042-023-00418-w)
+- **Insights into microplastics and their effects on Aquatic Organisms**, Journal of the Oriental Institute, March 2023. [Link](https://www.researchgate.net/publication/373840524_INSIGHTS_INTO_MICROPLASTICS_AND_THEIR_EFFECTS_ON_AQUATIC_ORGANISMS)
+- **Fatty Acid Profiling and Composition in Biodiesel and Biofuels**, Volume 1 Issue 4, JLRJS, November 2022. [Link](https://jlrjs.com/wp-content/uploads/2022/08/117.-Puneet-Dr.-Anjali-Priyadarshani.pdf)
+- **A Comprehensive Review on Potential and Prospects of Traditional Medicinal Plants for Management of Coronavirus Disease (COVID-19)**, Vantage Journal of Thematic Analysis, October 2022. [Link](https://ouci.dntb.gov.ua/en/works/7pvne5rl/)
+
+
+# Conferences {.anchor #conferences}
+
+### Equinox-2022: International Conference, December 2023
+- Topic Presented: Covid – 19 and Scope of Medicinal Plants against SARS-CoV2 Virus
+- Won the "Best Presenter Award"
+
+# Awards {.anchor #awards}
+
+- **Best Business Data Management Project**, IIT Madras, 2023
+- **Top 2 in Round Robin Hackathon, DS Hackathon**, IIT Madras, 2022
+- **Excellence in Academic Performance**, Ahlcon International School, 2019
+
+# Links {.anchor #links}
+
+- [GitHub](https://github.com/brpuneet898)
+- [LinkedIn](https://www.linkedin.com/in/puneet-06750798/)
+- [Kaggle](https://www.kaggle.com/brpuneet898)
+- [ResearchGate](https://www.researchgate.net/profile/Puneet-3)
+
+# Contact Info {.anchor #contact-info}
+
+- **Email**: brpuneet898@gmail.com
+- **Phone**: 9205055853

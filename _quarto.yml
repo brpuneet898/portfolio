@@ -1,0 +1,37 @@
+project:
+  type: website
+
+navbar: false
+
+website:
+  title: "Puneet's Portfolio"
+  navbar:
+    left:
+      - text: "Introduction"
+        href: "#introduction"
+      - text: "Academic Qualification"
+        href: "#academic-qualification"
+      - text: "Skills"
+        href: "#skills"
+      - text: "Work Experience"
+        href: "#work-experience"
+      - text: "Internships"
+        href: "#internships"
+      - text: "Projects"
+        href: "#projects"
+      - text: "Publications"
+        href: "#publications"
+      - text: "Conferences"
+        href: "#conferences"
+      - text: "Awards"
+        href: "#awards"
+      - text: "Links"
+        href: "#links"
+      - text: "Contact Info"
+        href: "#contact-info"
+
+format: 
+  html:
+    theme: cosmo  
+    toc: true      
+    toc-location: left 
