@@ -3,6 +3,16 @@ title: "Portfolio"
 format: html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5BH25BMJ7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q5BH25BMJ7');
+</script>
+
 # Introduction {.anchor #introduction}
 
 <img src="images/Self-Photo.JPG" width="150" align="left" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;" />
