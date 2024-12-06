@@ -41,24 +41,25 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Work Experience {.anchor #work-experience}
 
-### Python Developer, LegalBook, July 2023 - Present [^1]
+### Python Developer, LegalBook, July 2023 - Present [^Contractual]
 - **Python API Development:** Developed and maintained Python-based APIs to support the creation of a contract management tool, ensuring smooth integration with other services and seamless user experiences across the platform.
 - **Research and Development:** Conducted R&D to explore and implement innovative solutions for improving contract management workflows, leveraging emerging technologies to optimize business operations and enhance product capabilities.
 - **Frontend & Backend Integration:** Worked on the frontend development of React.js applications, while also managing the Python backend with Flask and Django, ensuring robust integration between the front and back-end systems for optimal functionality.
 - **AI & Syncfusion Integration:** Integrated AI-powered language models (LLM) and Syncfusion capabilities into existing products to enhance automation, improve document processing, and streamline contract lifecycle management.
 
 
-### Product Engineer, Metagauss, July 2023 – July 2024 [^1]
+### Product Engineer, Metagauss, July 2023 – July 2024 [^Contractual]
 - **PHP Plugin Development & Enhancement:** Continued developing and refining PHP plugins, integrating advanced features, and ensuring compatibility with the latest platform updates to deliver robust and scalable solutions for users.
 - **AI Feature Integration:** Led the integration of AI-driven features into existing plugins, including working on large language models (LLM) and chatbots, to enhance functionality and improve user experiences with smarter, more interactive tools.
 - **Team Leadership & Strategy:** Worked closely with the senior admin team to establish a dedicated Data Science (DS) team, leading cross-functional efforts to execute strategic initiatives and deliver high-quality products on time, while fostering collaboration and innovation within the team.
 
-### Associate Product Strategy, Metagauss, Nov 2021 – Feb 2023 [^1]
+### Associate Product Strategy, Metagauss, Nov 2021 – Feb 2023 [^Contractual]
 - **PHP Plugin Development:** Developed and implemented PHP plugins using WordPress, Visual Studio Code, and GitHub, contributing to the enhancement of the company’s product offerings by building robust, scalable solutions.
 - **API Development with Python:** Designed and created Python-based APIs using Flask, collaborating with the team to integrate backend services and ensure seamless interaction between applications and databases.
 - **Comprehensive Documentation:** Led the documentation efforts for newly developed plugins and APIs, creating detailed technical guides, code comments, and user-facing instructions to ensure clarity and ease of use for developers and end-users.
+- **Mobile App Development:** Collaborated with the mobile development team to create a breath yoga app, designed for users to practice pranayamic exercises, integrating guided breathing routines and enhancing user engagement with health and wellness features.
 
-### Jr. Technical Content Writer, Metaguass, July 2021 – March 2022 [^1]
+### Jr. Technical Content Writer, Metaguass, July 2021 – March 2022 [^Contractual]
 - **Plugin Documentation:** Created comprehensive and user-friendly documentation for the company's plugins, detailing installation, configuration, and usage instructions to ensure ease of understanding for both technical and non-technical users.
 - **PHP Knowledge Integration:** Gained a deep understanding of PHP and its functionalities, applying this knowledge to document the technical aspects of the company's plugins, including code structure, key features, and integration guidelines.
 - **Cross-functional Collaboration:** Worked closely with development and engineering teams to gather technical details and ensure accuracy in all documentation, contributing to the creation of precise and well-structured content.
@@ -66,29 +67,43 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Internships {.anchor #internships}
 
-### Teaching Assistant & Mentor, IIT Madras, Aug 2024 – Present
+### Teaching Assistant & Mentor, IIT Madras, Aug 2024 – Present [^Part-Time,Internship]
 - **Python Programming Mentor:** Lead 40 classes per term, teaching a cohort of 15 students foundational Python concepts, from basic syntax to introductory object-oriented programming, ensuring hands-on learning through exercises and projects.
 - **Linux Systems Teaching Assistant:** Assist in delivering lessons on Linux system commands, focusing on key tools like `sed`, `awk`, and Bash scripting, helping students navigate the command line and automate tasks in Unix-like environments.
 - **BDM Project Mentor:** Guide students in completing various milestones of their Business Data Management (BDM) projects, providing mentorship and support on project management, problem-solving, and technical implementation.
 
 
-### Data Science Intern, IISc Bangalore, Sep 2023 – Nov 2023
-### Summer Intern, IIIT Naya Raipur, May 2023 – July 2023
+### Data Science Intern, IISc Bangalore, Sep 2023 – Nov 2023 [^Part-Time,Internship]
+- **Data Extraction & EDA:** Extracted data from various web sources using libraries like BeautifulSoup (BS), performed exploratory data analysis (EDA) to uncover trends, patterns, and insights, and prepared the data for further analysis.
+- **Algorithm Development & Testing:** Developed and implemented simple algorithms to test and analyze a dataset of 12,000 data points, evaluating their performance and ensuring they met the project’s objectives for data processing and predictive modeling.
 
-### Teaching Assistant, IIT Madras, Jan 2023 – May 2023
+### Summer Intern, IIIT Naya Raipur, May 2023 – July 2023 [^Part-Time,Internship]
+- **Attendance System Automation:** Developed and automated an attendance management system for the institute, streamlining the process of tracking and recording attendance using technology to reduce manual effort and improve accuracy.
+- **Mobile App Development:** Contributed to the development of a mobile app to support the attendance system, ensuring seamless user experience and efficient real-time attendance tracking for students and faculty.
+
+### Teaching Assistant, IIT Madras, Jan 2023 – May 2023 [^Part-Time,Internship]
 - **BDM Course Teaching Assistant:** Conducted weekly classes, assisted students with course material, and provided guidance on projects related to Business Data Management (BDM), ensuring students gained practical insights and met project milestones.
 - **TDS (Tools in Data Science) Teaching Assistant:** Supported the teaching of data science tools, facilitating classes on key concepts and tools used in the field, while helping students understand the practical applications of data analysis, visualization, and machine learning techniques.
 
-### Jr. Python/Django Associate Intern, Zummit Labs, Oct 2022 – Feb 2023
-### SDE Intern, Alcanttor Info Soln Pvt Ltd, Oct 2022 – Jan 2023
-### Lead Python Mentor, IIT Madras, Aug 2022 – Sep 2022
-### AI Intern, Personifwy, March 2022 – May 2022
+### Jr. Python/Django Associate Intern, Zummit Labs, Oct 2022 – Feb 2023 [^Part-Time,Internship]
+- **Backend Development with Django & Flask:** Gained hands-on experience in backend development, working with Django and Flask to build web applications, enhance server-side functionality, and optimize performance across multiple projects.
+- **Project Development & Learning:** Contributed to the development of 3 key projects, applying learned concepts in Python, Django, and Flask to build scalable and maintainable systems while continuously improving coding skills through practical application.
+
+### SDE Intern, Alcanttor Info Soln Pvt Ltd, Oct 2022 – Jan 2023 [^Part-Time,Internship]
+- **Python Development:** Worked on Python-based solutions, exploring various libraries and frameworks to enhance the functionality of internal products, focusing on improving performance and adding new features.
+- **PHP Plugin Development:** Developed PHP plugins for WordPress, contributing to the company's internal product offerings by building and optimizing features to improve user experience and extend functionality.
+- **Documentation & Knowledge Sharing:** Documented the development process, including code, implementation steps, and usage guidelines, ensuring clear and comprehensive resources for future reference and team collaboration.
+
+### Lead Python Mentor, IIT Madras, Aug 2022 – Sep 2022 [^Part-Time,Internship]
+- **Lead Python Mentor for Pilot Project:** Led the pilot project for IIT Madras' BS program, teaching a cohort of 30 students core Python concepts, including data structures, algorithms, and object-oriented programming, ensuring high-quality learning outcomes.
+- **Mentorship & Instruction:** Provided hands-on mentorship and guidance to students, fostering a strong understanding of Python and programming fundamentals, while conducting interactive sessions, coding challenges, and practical exercises to reinforce learning.
+- **Team Leadership & Oversight:** Managed a team of 3 mentors, overseeing their progress, providing feedback, and ensuring consistency in teaching methods and content delivery, while also addressing student queries and ensuring smooth coordination across the team.
+
+### AI Intern, Personifwy, March 2022 – May 2022 [^Part-Time,Internship]
+- **AI & ML Fundamentals:** Learned the basics of artificial intelligence (AI) and machine learning (ML), building simple end-to-end projects, including developing two classification and regression models using Python to solve real-world problems.
+- **Search Algorithms & Project Development:** Gained hands-on experience with search algorithms and their implementation in Python, building two mini-projects to apply these techniques, and deepening understanding of how to integrate algorithms into practical AI solutions.
 
 # Projects {.anchor #projects}
-
-- **Machine Learning Model for Predictive Analytics**: Built a model to predict customer churn using Python and Scikit-learn.
-- **Personal Portfolio Website**: Developed a responsive website using HTML, CSS, and JavaScript to showcase my projects and skills.
-- **Stock Price Prediction App**: Created a Python application that predicts stock prices using machine learning and time series analysis.
 
 # Publications {.anchor #publications}
 
@@ -123,4 +138,5 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 - **Email**: brpuneet898@gmail.com
 - **Phone**: 9205055853
 
-[^1]: Contractual
+[^Contractual]: Contractual
+[^Part-Time,Internship]: Part-Time, Internship
