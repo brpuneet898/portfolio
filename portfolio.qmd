@@ -143,7 +143,7 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
   </ul>
 
 
-### Course-Work (BS)
+### Course-Work Projects (BS)
 - **Business Data Management -** Collected and analyzed data from a retailer to improve business operations. Using Excel, R, and Python, I conducted exploratory data analysis (EDA), identified key trends, and generated insightful reports. My findings helped the retailer optimize inventory and marketing strategies, ultimately boosting shop revenue. This project was recognized as the best of the term for its impact and analytical depth.
 - **Modern Application Development I -** Developed a ticket booking system with a user-friendly interface using HTML, CSS, and Bootstrap. The backend was built with Flask, while PostgreSQL was used for database management. The project demonstrated my ability to integrate front-end and back-end technologies effectively.
 - **Modern Application Development II -** Built an advanced UI of ticket booking system using Vue.js and React.js, focusing on responsiveness and performance. The backend was developed with Flask, integrating PostgreSQL for database management, Redis for caching, and Celery for task scheduling. This project showcased my skills in modern full-stack development.
