@@ -171,6 +171,7 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Awards {.anchor #awards}
 
+- **Gold Medal**, International Creative Writing Contest, Monomousumi, November 2024
 - **Best Business Data Management Project**, IIT Madras, 2023
 - **Top 2 in Round Robin Hackathon, DS Hackathon**, IIT Madras, 2022
 - **Excellence in Academic Performance**, Ahlcon International School, 2019
